@@ -29,11 +29,3 @@ npm run dev
 ### MLC
 
 ![MLD](attendus/diag_mld.png)
-
-### Dialogue
-
-[dialogue.md](attendus/dialogue.md)
-
-### Fonctions
-
-[fonctions.md](attendus/fonctions.md)
